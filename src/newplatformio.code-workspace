@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "D:/Arduino/newplatformio"
+		},
+		{
+			"name": "test",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iterator": "cpp",
+			"cstddef": "cpp"
+		}
+	}
+}
